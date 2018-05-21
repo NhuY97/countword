@@ -15,7 +15,7 @@
 
 PHASE=""
 DEFAULT_ZONE="us-central1-b"
-DEFAULT_CLUSTER='cluster-1827	'
+DEFAULT_CLUSTER='cluster-1827'
 
 # Mac OS X -- "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
 # Linux -- google-chrome
